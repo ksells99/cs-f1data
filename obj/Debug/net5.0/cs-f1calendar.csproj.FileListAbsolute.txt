@@ -16,3 +16,4 @@ D:\Kai-2\cs-f1calendar\obj\Debug\net5.0\cs-f1calendar.pdb
 D:\Kai-2\cs-f1calendar\obj\Debug\net5.0\cs-f1calendar.genruntimeconfig.cache
 D:\Kai-2\cs-f1calendar\bin\Debug\net5.0\Pastel.dll
 D:\Kai-2\cs-f1calendar\obj\Debug\net5.0\cs-f1calendar.csproj.CopyComplete
+D:\Kai-2\cs-f1calendar\bin\Debug\net5.0\ConsoleTables.dll

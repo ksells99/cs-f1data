@@ -1,10 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "soUU0No+hvMkYPusVHxaXYAj4I+n+zZDskU3OFFRo5MHOIYGRwE2hNKlpY2+CQ8JV3j+keAWpj1w/2pkdZmbWQ==",
+  "dgSpecHash": "GEItt4ie0U11TYUexO1BnUhSJ3V5wxkjbpEkuMQ7DLPLKlzLfrmotmOoN7hUwLzEktkIf+2quBOL61FSj/ztqQ==",
   "success": true,
   "projectFilePath": "D:\\Kai-2\\cs-f1calendar\\cs-f1calendar.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Kai\\.nuget\\packages\\pastel\\3.0.0\\pastel.3.0.0.nupkg.sha512"
+    "C:\\Users\\Kai\\.nuget\\packages\\consoletables\\2.4.2\\consoletables.2.4.2.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\pastel\\3.0.0\\pastel.3.0.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kai\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }
